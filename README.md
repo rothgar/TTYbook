@@ -1,6 +1,4 @@
 # TTYbook
-Everything you need for text based productivity
-
 The TTYbook is a script that can turn your Linux laptop/desktop into a full text based productivity suite.
 
 The bootstrap script will change your system runlevel 4 (typically unused) into a custom runlevel that can be used for times you don't want or need a GUI environment but want more than runlevel 3 with basic multi user functionallity.
