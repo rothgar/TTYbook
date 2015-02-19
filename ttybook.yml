@@ -20,5 +20,5 @@ tmux_options: -f ~/.tmuxinator/tmux.ttybook.conf
 
 windows:
   - email: mutt
-  - browser: lynx
+  - browser: elinks
   - shell: $SHELL
