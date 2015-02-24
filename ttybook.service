@@ -1,0 +1,8 @@
+[Unit]
+Description=TTYbook 
+
+[Service]
+ExecStart=/usr/local/bin/tmuxinator start ttybook
+
+[Install]
+WantedBy=runlevel4.target
