@@ -1,5 +1,6 @@
 [Unit]
 Description=TTYbook 
+After=network.service
 
 [Service]
 ExecStart=/usr/local/bin/tmuxinator start ttybook
