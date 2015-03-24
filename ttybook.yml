@@ -19,6 +19,7 @@ tmux_options: -f ~/.tmuxinator/tmux.ttybook.conf
 # tmux_command: byobu
 
 windows:
+  - Dash:
+  - shell:
   - email: mutt
   - browser: elinks
-  - shell: $SHELL
